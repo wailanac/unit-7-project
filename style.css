@@ -1,0 +1,31 @@
+header h1{
+  height: 100px;
+  background-color: #FFFFFF
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+p, li {
+  font-family: arial;
+}
+
+.wrapper {
+  width: 500px;
+  float: center;
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+a:link {color: blue;}
+a:visited {color: grey;}
+a:hover {color: green;}
+a: active {color: blue;}
